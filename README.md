@@ -18,5 +18,16 @@ A custom WordPress plugin built for [Faresize.com](https://faresize.com), design
 3. Activate it from the Plugins section in your WordPress admin dashboard.
 
 ## ⚙️ Dependencies
+- WordPress 6.0+
+- WooCommerce
+
+## 🛠 Developer Notes
+- Plugin is organized using OOP PHP principles.
+- Hooks and filters used to keep it extensible and modular.
+- Well-commented code for easy customization and updates.
+
+## 📸 Screenshots
+
+
 
 
