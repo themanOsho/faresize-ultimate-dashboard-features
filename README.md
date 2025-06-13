@@ -17,6 +17,6 @@ A custom WordPress plugin built for [Faresize.com](https://faresize.com), design
 2. Upload the plugin folder to /wp-content/plugins/
 3. Activate it from the Plugins section in your WordPress admin dashboard.
 
-**## ⚙️ Dependencies**
+## ⚙️ Dependencies
 
 
