@@ -13,6 +13,10 @@ A custom WordPress plugin built for [Faresize.com](https://faresize.com), design
 
 ## 📦 Installation
 
-1. Download the plugin ZIP or clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/faresize-ultimate-dashboard-features.git
+1. Download the plugin ZIP or clone the repository
+2. Upload the plugin folder to /wp-content/plugins/
+3. Activate it from the Plugins section in your WordPress admin dashboard.
+
+**## ⚙️ Dependencies**
+
+
