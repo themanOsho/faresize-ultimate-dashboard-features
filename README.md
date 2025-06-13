@@ -27,7 +27,14 @@ A custom WordPress plugin built for [Faresize.com](https://faresize.com), design
 - Well-commented code for easy customization and updates.
 
 ## 📸 Screenshots
+### 🎯 Custom Dashboard
+![Desktop](assets/dashboard-large.png)
 
+![Tablet](assets/dshboard-medium.png)
 
+![Mobile](assets/dashboard-small.png)
 
+## 💬 Support
+For questions or suggestions, feel free to contact [Joshua](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=oshojoshua004@gmail.com)
 
+Built with care by [Joshua](https://wa.me/2349049788099) for [Faresize.com](https://faresize.com).
